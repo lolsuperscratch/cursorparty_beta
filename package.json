@@ -1,0 +1,15 @@
+{
+  "name": "cursorparty-beta",
+  "version": "0.0.0",
+  "description": "the client",
+  "main": "index.js",
+  "author": "lolsuperscratch",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
